@@ -1,0 +1,9 @@
+stations_data/
+venv/
+.idea/
+__pycache__/
+dbdata/
+logs/
+plugins/
+
+
